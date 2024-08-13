@@ -1,96 +1,70 @@
 # Project Overview
-As HR analysts at "Rabota s Zabotoy," we assist businesses in optimizing their personnel management. Companies provide us with data, and we offer strategies to prevent financial losses and employee turnover. Machine learning is a valuable tool in this process, enabling us to respond more quickly and accurately to business queries.
+I am working with the e-commerce platform "V Odin Klik," which offers a diverse range of products including items for children, home, small appliances, cosmetics, and even groceries. The store's report from the previous period indicates a decline in customer activity. Attracting new customers has become less effective, as a significant portion of the target audience is already aware of the store. The potential solution is to maintain the activity of existing customers through personalized offers.
 
 Objectives
-Develop a model to predict employee satisfaction levels based on client data.
+Analyze customer behavior to identify patterns and preferences.
 
-Build a model to forecast employee turnover based on client data.
+Develop personalized marketing strategies to enhance customer engagement and retention.
 
-Importance to Business
-Employee Satisfaction: Predicting satisfaction helps in retaining employees, as job satisfaction directly impacts turnover.
-
-Turnover Prediction: Anticipating employee departures is crucial for HR analytics, as unexpected resignations, especially of key personnel, pose risks to the company.
+Implement targeted promotions and offers based on customer data and shopping history.
 
 Data Overview
-Employee Data: Includes performance metrics, engagement scores, tenure, and other relevant factors.
+Customer Data: Includes purchase history, browsing behavior, and demographic information.
 
-Turnover Data: Historical records of employee departures, reasons for leaving, and exit interviews.
+Product Categories: Detailed data on various product lines and their performance.
 
 Methodology
-Task 1: Employee Satisfaction Prediction Model
-Data Collection: Gather comprehensive data on employee satisfaction from the client.
+Data Collection: Gather comprehensive data on customer interactions and transactions.
 
-Data Preprocessing: Clean and prepare the data for analysis, handling missing values and outliers.
+Data Analysis: Use statistical methods and machine learning techniques to understand customer behavior and preferences.
 
-Feature Engineering: Create relevant features that could influence employee satisfaction.
+Personalization Strategy: Create tailored marketing campaigns and offers based on analysis insights.
 
-Model Development: Build and train machine learning models to predict satisfaction levels.
+Implementation: Deploy personalized recommendations and promotions on the platform.
 
-Model Evaluation: Assess model performance using appropriate metrics and validation techniques.
-
-Task 2: Employee Turnover Prediction Model
-Data Collection: Gather comprehensive data on employee turnover from the client.
-
-Data Preprocessing: Clean and prepare the data for analysis, handling missing values and outliers.
-
-Feature Engineering: Create relevant features that could influence the likelihood of turnover.
-
-Model Development: Build and train machine learning models to predict the probability of employee turnover.
-
-Model Evaluation: Assess model performance using appropriate metrics and validation techniques.
+Evaluation: Monitor the effectiveness of personalized strategies through key performance indicators (KPIs).
 
 Expected Outcomes
-Enhanced Retention Strategies: By understanding factors that influence satisfaction and turnover, businesses can implement targeted retention strategies.
+Increased Customer Engagement: Personalized offers will likely boost customer interaction with the platform.
 
-Risk Mitigation: Early prediction of turnover allows for proactive measures to minimize the impact of employee departures.
+Enhanced Retention Rates: Targeted marketing efforts will help retain existing customers, reducing churn.
+
+Improved Sales Performance: Personalized promotions can lead to higher conversion rates and increased sales.
 
 Conclusion
-These machine learning models will empower "Rabota s Zabotoy" to provide actionable insights to businesses, helping them to manage their workforce more effectively. By predicting employee satisfaction and turnover, companies can take preemptive steps to retain valuable employees and mitigate the risks associated with turnover.
+This personalized marketing approach will enable "V Odin Klik" to reinvigorate customer activity and strengthen loyalty among existing clients. By leveraging detailed customer data and advanced analytics, the store can deliver relevant and attractive offers, thereby sustaining and growing its customer base.
 # Обзор проекта
-HR-аналитики компании «Работа с заботой» помогают бизнесу оптимизировать управление персоналом. Компании предоставляют нам данные, и мы предлагаем стратегии для предотвращения финансовых потерь и оттока сотрудников. Машинное обучение является ценным инструментом в этом процессе, позволяя нам быстрее и точнее отвечать на запросы бизнеса.
+Я работаю с интернет-магазином «В один клик», который предлагает широкий ассортимент товаров, включая товары для детей, дома, малой бытовой техники, косметики и даже продукты. Отчет магазина за прошлый период показал снижение активности покупателей. Привлечение новых клиентов стало менее эффективным, так как большая часть целевой аудитории уже знает о магазине. Возможным решением является поддержание активности постоянных клиентов с помощью персонализированных предложений.
 
 Цели
-Разработать модель для прогнозирования уровня удовлетворенности сотрудников на основе данных клиента.
+Анализировать поведение клиентов, чтобы выявить закономерности и предпочтения.
 
-Построить модель для предсказания увольнения сотрудников на основе данных клиента.
+Разрабатывать персонализированные маркетинговые стратегии для повышения вовлеченности и удержания клиентов.
 
-Важность для бизнеса
-Удовлетворенность сотрудников: Прогнозирование удовлетворенности помогает в удержании сотрудников, так как удовлетворенность работой напрямую влияет на отток.
-
-Прогнозирование оттока: Предсказание увольнений важно для HR-аналитики, так как неожиданные увольнения, особенно ключевых сотрудников, несут риски для компании.
+Реализовывать целевые акции и предложения на основе данных о клиентах и истории покупок.
 
 Обзор данных
-Данные о сотрудниках: Включают метрики производительности, оценки вовлеченности, стаж и другие релевантные факторы.
+Данные о клиентах: Включают историю покупок, поведение при просмотре и демографическую информацию.
 
-Данные об оттоке: Исторические записи об увольнениях сотрудников, причины ухода и выходные интервью.
+Категории товаров: Детальные данные о различных товарных линиях и их эффективности.
 
 Методология
-Задача 1: Модель прогнозирования удовлетворенности сотрудников
-Сбор данных: Собирать полные данные об удовлетворенности сотрудников от клиента.
+Сбор данных: Собирать полные данные о взаимодействиях клиентов и транзакциях.
 
-Предварительная обработка данных: Очищать и подготавливать данные для анализа, обрабатывая пропуски и выбросы.
+Анализ данных: Использовать статистические методы и методы машинного обучения для понимания поведения клиентов и предпочтений.
 
-Инженерные признаки: Создавать релевантные признаки, которые могут влиять на удовлетворенность сотрудников.
+Стратегия персонализации: Создавать настроенные маркетинговые кампании и предложения на основе аналитических данных.
 
-Разработка модели: Строить и обучать модели машинного обучения для прогнозирования уровня удовлетворенности.
+Внедрение: Развертывать персонализированные рекомендации и акции на платформе.
 
-Оценка модели: Оценивать производительность модели с использованием подходящих метрик и методов валидации.
-
-Задача 2: Модель прогнозирования оттока сотрудников
-Сбор данных: Собирать полные данные об оттоке сотрудников от клиента.
-
-Предварительная обработка данных: Очищать и подготавливать данные для анализа, обрабатывая пропуски и выбросы.
-
-Инженерные признаки: Создавать релевантные признаки, которые могут влиять на вероятность оттока.
-
-Разработка модели: Строить и обучать модели машинного обучения для прогнозирования вероятности увольнения сотрудников.
-
-Оценка модели: Оценивать производительность модели с использованием подходящих метрик и методов валидации.
+Оценка: Отслеживать эффективность персонализированных стратегий с помощью ключевых показателей эффективности (KPI).
 
 Ожидаемые результаты
-Улучшенные стратегии удержания: Понимая факторы, влияющие на удовлетворенность и отток, компании могут внедрять целевые стратегии удержания.
+Повышение вовлеченности клиентов: Персонализированные предложения, вероятно, увеличат взаимодействие клиентов с платформой.
 
-Снижение рисков: Раннее предсказание оттока позволяет предпринимать превентивные меры для минимизации влияния увольнений сотрудников.
+Улучшение показателей удержания: Целевые маркетинговые усилия помогут удержать существующих клиентов, снизив отток.
+
+Улучшение показателей продаж: Персонализированные акции могут привести к более высоким коэффициентам конверсии и увеличению продаж.
 
 Заключение
-Эти модели машинного обучения позволят компании «Работа с заботой» предоставлять действенные инсайты бизнесу, помогая им более эффективно управлять своим персоналом. Прогнозируя удовлетворенность сотрудников и отток, компании могут предпринимать превентивные шаги для удержания ценных сотрудников и снижения рисков, связанных с оттоком.
+Этот подход к персонализированному маркетингу позволит интернет-магазину «В один клик» оживить активность клиентов и укрепить лояльность среди существующих клиентов. Используя подробные данные о клиентах и передовые аналитические методы, магазин может предлагать релевантные и привлекательные предложения, тем самым поддерживая и расширяя свою клиентскую базу.
